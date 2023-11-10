@@ -1,0 +1,16 @@
+City,State,Timezone,Stay_at_home_order_date,Phase1_opening_date,Phase1_Shift,City_State
+New_York_City,NY,EST,2020-03-22,2020-06-08,0,New_York_City_NY
+Chicago,IL,CST,2020-03-21,2020-05-01,0,Chicago_IL
+Philadelphia,PA,EST,2020-03-23,2020-05-08,0,Philadelphia_PA
+Austin,TX,CST,2020-03-24,2020-05-01,0,Austin_TX
+Jacksonville,FL,EST,2020-04-01,2020-05-05,0,Jacksonville_FL
+Columbus,OH,EST,2020-03-23,2020-05-01,0,Columbus_OH
+Charlotte,NC,EST,2020-03-26,2020-05-08,0,Charlotte_NC
+Indianapolis,IN,EST,2020-03-23,2020-05-11,-4,Indianapolis_IN
+Seattle,WA,PST,2020-03-23,2020-06-05,0,Seattle_WA
+Denver,CO,MT,2020-03-26,2020-04-26,0,Denver_CO
+Washington,DC,EST,2020-03-20,2020-05-29,1,Washington_DC
+Boston,MA,EST,2020-03-23,2020-05-26,3,Boston_MA
+Dallas,TX,CST,2020-03-22,2020-04-20,0,Dallas_TX
+Miami,FL,EST,2020-03-26,2020-05-18,11,Miami_FL
+Las_Vegas,NV,PST,2020-04-01,2020-05-15,-7,Las_Vegas_NV
